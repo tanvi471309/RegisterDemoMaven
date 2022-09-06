@@ -16,7 +16,8 @@ import org.testng.annotations.Test;
 public class UserRegistrationDemo {
 
 	WebDriver driver;
-
+	
+	//Updated by Tanvi - 6 September
 	//Initializing String variables
 	String applicationURL="https://nxtgenaiacademy.com/";
 	String regFormURL="https://nxtgenaiacademy.com/demo-site/";
