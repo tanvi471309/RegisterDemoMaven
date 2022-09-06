@@ -17,7 +17,8 @@ public class UserRegistrationDemo {
 
 	WebDriver driver;
 	
-	//Updated by Tanvi - 6 September
+	//Updated by Tanvi - 6 September- 03:42PM
+	//Updated by Tanvi - 6 September - 03:45 PM 
 	//Initializing String variables
 	String applicationURL="https://nxtgenaiacademy.com/";
 	String regFormURL="https://nxtgenaiacademy.com/demo-site/";
