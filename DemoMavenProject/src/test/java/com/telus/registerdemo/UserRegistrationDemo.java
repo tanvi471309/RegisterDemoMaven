@@ -19,6 +19,7 @@ public class UserRegistrationDemo {
 	
 	//Updated by Tanvi - 6 September- 03:42PM
 	//Updated by Tanvi - 6 September - 03:45 PM 
+	//Updated by Tanvi - 20 December - 20:11 PM
 	//Initializing String variables
 	String applicationURL="https://nxtgenaiacademy.com/";
 	String regFormURL="https://nxtgenaiacademy.com/demo-site/";
