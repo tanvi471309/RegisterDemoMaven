@@ -22,8 +22,8 @@ public class UserRegistrationDemo {
 	String applicationURL="https://nxtgenaiacademy.com/";
 	String regFormURL="https://nxtgenaiacademy.com/demo-site/";
 	String expectedTitleRegistration="Demo Site – Registration Form – NxtGen A.I Academy";
-	String firstNameInput="Mihika";
-	String lastNameInput="Singh";
+	String firstNameInput="Aparna";
+	String lastNameInput="Raghav";
 	String streetAddressInput="H.No-122(B), LIG-1";
 	String suiteAddressInput="Gomti Nagar";
 	String cityNameInput="Lucknow";
