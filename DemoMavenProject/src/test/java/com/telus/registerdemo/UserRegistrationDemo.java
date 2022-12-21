@@ -29,7 +29,7 @@ public class UserRegistrationDemo {
 	String regFormURL="https://nxtgenaiacademy.com/demo-site/";
 	String expectedTitleRegistration="Demo Site – Registration Form – NxtGen A.I Academy";
 	String firstNameInput="Aparna";
-	String lastNameInput="singh";
+	String lastNameInput="Raghav";
 	String streetAddressInput="H.No-122(B), LIG-1";
 	String suiteAddressInput="Gomti Nagar";
 	String cityNameInput="Lucknow";
