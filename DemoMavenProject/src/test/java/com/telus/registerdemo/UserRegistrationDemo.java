@@ -17,13 +17,19 @@ public class UserRegistrationDemo {
 
 	WebDriver driver;
 	
+//<<<<<<< HEAD
 	//Updating on 20-12-2022
+//=======
+	//Updated by Tanvi - 6 September- 03:42PM
+	//Updated by Tanvi - 6 September - 03:45 PM 
+	//Updated by Tanvi - 20 December - 20:11 PM
+//>>>>>>> branch 'main' of https://github.com/tanvi471309/RegisterDemoMaven.git
 	//Initializing String variables
 	String applicationURL="https://nxtgenaiacademy.com/";
 	String regFormURL="https://nxtgenaiacademy.com/demo-site/";
 	String expectedTitleRegistration="Demo Site – Registration Form – NxtGen A.I Academy";
 	String firstNameInput="Aparna";
-	String lastNameInput="Raghav";
+	String lastNameInput="singh";
 	String streetAddressInput="H.No-122(B), LIG-1";
 	String suiteAddressInput="Gomti Nagar";
 	String cityNameInput="Lucknow";
