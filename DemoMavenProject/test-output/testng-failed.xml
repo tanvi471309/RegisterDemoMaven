@@ -5,10 +5,6 @@
     <classes>
       <class name="com.telus.registerdemo.UserRegistrationDemo">
         <methods>
-          <include name="closeApplication"/>
-          <include name="userRegistration"/>
-          <include name="launchApplication"/>
-          <include name="registrationFormNavigation"/>
           <include name="confirmationMessageValidation"/>
         </methods>
       </class> <!-- com.telus.registerdemo.UserRegistrationDemo -->
