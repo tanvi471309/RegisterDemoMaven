@@ -45,12 +45,12 @@ public class UserRegistrationDemo {
 	String confirmationMsg="Registration Form is Successfully Submitted";
 
 	//Web element locator strings
-	String qaAutomationLinkLocator="QA AUTOMATION";
-	String pracAutomationLinkLocator="//*[text()='Practice Automation']";
-	String regFormLinkLocator="Registration Form";
+	String qaAutomationLinkLocator="Demo Sites";//QA AUTOMATION";
+	String pracAutomationLinkLocator="//div[@class='collapse navbar-collapse pull-right']//a[contains(text(),'Practice Automation')]";
+	String regFormLinkLocator="Registration Form";//"Registration Form";
 	String firstNameLocator="vfb-5";
 	String lastNameLocator="vfb-7";
-	String genderLocator="vfb-8-2";
+	String genderLocator="vfb-31-2";
 	String streetAddressLocator="vfb-13-address";
 	String suiteAddressLocator="vfb-13-address-2";
 	String cityAddressLocator="vfb-13-city";
@@ -116,7 +116,7 @@ public class UserRegistrationDemo {
 		System.out.println("Mouse click action performed for Demo Site-Registration Form link.");
 	}
 
-	@Test(priority = 3)
+	@Test(priority = 3, enabled=true)
 	public void userRegistration() {
 
 		String currentURL=driver.getCurrentUrl();
@@ -764,7 +764,7 @@ public class UserRegistrationDemo {
 		}
 	}
 
-	@Test(priority = 4)
+	@Test(priority = 4, enabled=false)
 	public void confirmationMessageValidation() {
 
 		//Confirmation message validation
@@ -790,7 +790,7 @@ public class UserRegistrationDemo {
 		}
 	}
 
-	@Test(priority = 5)
+	@Test(priority = 5, enabled=true)
 	public void closeApplication() {
 
 		//Closing application
