@@ -25,6 +25,8 @@ public class UserRegistrationDemo {
 	//Updated by Tanvi - 20 December - 20:11 PM
 	//Updated by Tanvi - 17 February - 19:35 PM
 //>>>>>>> branch 'main' of https://github.com/tanvi471309/RegisterDemoMaven.git
+	
+	// Updated by Tanvi - 17 Feb - 20:51 PM
 	//Initializing String variables
 	String applicationURL="https://nxtgenaiacademy.com/";
 	String regFormURL="https://nxtgenaiacademy.com/demo-site/";
