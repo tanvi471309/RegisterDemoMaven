@@ -89,6 +89,7 @@ public class UserRegistrationDemo {
 		// Maximizing the window
 		driver.manage().window().maximize();
 		System.out.println("Window maximized.");
+		System.out.println("**************");
 	}
 
 	@Test(priority = 2)
